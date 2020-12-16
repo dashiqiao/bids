@@ -1,0 +1,9 @@
+go.mod
+go.sum
+logdata/
+!logdata/README.md
+logdata
+.idea
+config/conf.yaml
+upload/
+nohup.out
